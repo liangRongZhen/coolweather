@@ -184,6 +184,7 @@ public class ChooseAreaFragment extends Fragment {
                 });
             }
         });
+        String i = "aa|bb";
     }
 
 
